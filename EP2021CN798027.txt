@@ -1,0 +1,103 @@
+https://uxapps.ultimatix.net/#/utility
+https://uxapps.ultimatix.net/#/    - to remove Uxapp 
+
+
+from In HR Drivepan24 to everyone:    10:46 AM
+. Link to access Ultimatix
+        https://www.Ultimatix.net
+        UserName : TCS employee number
+         Password : ChangePwd@ddmmyyyy ( where C and P is in upper case and DDMMYYYY is Date of Birth)
+        (A)  After Login into the Ultimatix with Default Password. Please change password and immediately log out.
+               Then again login into the Ultimatix with new password.  
+         Setup Ultimatix Authenticator App?
+         How can I install and setup Ultimatix Authenticator app on my mobile device?
+         Visit the following link for 13 Pages step-by-step instructions to setup Ultimatix Authenticator app on your
+         mobile device.   
+         From BA to FTE Conversion -  De-link UXAPP from your linked Device (Mobile/Tablet).
+         UXAPP -- >> More-->> Settings-->> Your Device -->> click Remove then login with your new employee id.
+        Help Page to install Mobile Application
+        https://auth.Ultimatix.net/login/pages/utxAuthenticatorGuide.html
+ 
+from In HR Drivepan24 to everyone:    10:46 AM
+2. Pre-requisite to enable TCS mail
+       (A) Set your secret question and answer from Ultimatix
+             Path : Ultimatix << Click on name ( Extreme right side on Ultimatix homepage )<< Password
+             Management << Ultimatix secret question
+      (B) Select Domain Password
+            Path :  Ultimatix << Click on name ( Extreme right side on Ultimatix homepage )<< Password
+             Management << Domain Password << select Domain India
+      (C) Select TCS mail ID from Ultimatix
+            Path : Ultimatix <<emp, service << Empl Self service << GESS << my profile << select Email
+from In HR Drivepan24 to everyone:    10:46 AM
+3.    Steps to configure  Mail
+   a. Type in the url in browser  https://myapp.tcs.com
+   b. My app window will open up. Enter employee number and in password : enter Ultimatix password and
+       login
+   c. Then it  will route to Ultimatix log in page. Enter username as Employee number and password /authcode
+   d. Then citrix page will pop up - select use light version
+   e. Select o365 mail
+   f.  For signing in o365 mail user name : Employee no@tcs.com and password is domain password ( One need
+       to reset domain password from Ultimatix)
+
+* In-case you are accessing TCS mail from Mobile phone , then Install Citrix workspace receiver from play
+   store
+from In HR Drivepan24 to everyone:    10:47 AM
+  a)    Once you will receive the TCS Laptop. Your Username for login purpose in TCS Laptop
+
+          Username – Employee Id@tcs.com  ( example - 1234567@tcs.com)
+          Password – Domain Password (India)
+
+  b)    TCS mail purpose (O365 email) and Domain Password (only for O365 email access users)
+ 
+          Username – Employee Id@tcs.com  ( example - 1234567@tcs.com)
+          Password – Domain Password (India)
+
+  c)     Exchange mail (TCS) :  ( https://mail.tcs.com – only via VPN on TCS laptop only )
+           Username – India\1234567
+           Password – Domain Password (India)
+from In HR Drivepan24 to everyone:    10:47 AM
+ 1.    AADHAR CARD UPDATION
+Path : GESS >> My Profile >> National Identifier.  Update your Aadhar card number and Upload Aadhar image (jpeg or pdf, size not more than 1 MB)
+2.    PRESENT AND PERMANENT ADDRESS
+Path : GESS >> My Profile >> Address Details.  Verify both present and permanent address
+3.    BANK DETAILS UPDATION
+Path : GESS >> My Profile >> Bank Details. Update your Saving as well as reimbursement account
+4.    PASSPORT / PAN UPDATION
+Path : GESS >> My Profile >> Passport Details. Update your Passport number and Upload Passport image (jpeg or pdf, size not more than 1 MB)
+from In HR Drivepan24 to everyone:    10:47 AM
+5.    APPOINTMENT LETTER ACCEPTANCE      
+Path : Employee  Services >> My Documents >> Official Letter>> Appointment Letter.
+6.    HIS NOMINEES UPDATION
+Path : GESS >> Benefits and Taxes >> Health Insurance Scheme >> Beneficiary Details
+7.         TIMESHEET ENTRY
+Path : Employee  Services >> Timesheet Entry (Swon No : 1008421)
+8.    Mandatory Courses
+Path : Learning and Collaboration >> Learning >> Ievolve
+SECURITY AWARENESS & SECURITY QUIZ (Course ID 43893 and 7408) 
+WFO - ( WBT ( Web based Training in Ultimatix -> iEvolve ) : iEvolve id : 62979 / 70111
+
+
+
+
+System log in : Category raise the GHD ticket
+from In HR Drivepan24 to everyone:    10:47 AM
+Ultimatix << Employee Services << TCS Global Helpdesk << Internal Services << TCS Domain
+from In HR Drivepan24 to everyone:    10:48 AM
+Self-Help Videos are also available for quick resolution for your IT related Issues
+https://video.tcs.com/category/self_help_videos_it_is
+from In HR Drivepan24 to everyone:    11:30 AM
+ Once you will receive the TCS Laptop. Your Username for login purpose in TCS Laptop
+          Username – Employee Id@tcs.com  ( example - 1234567@tcs.com)
+          Password – Domain Password (India)
+  b)    TCS mail purpose (O365 email) and Domain Password (only for O365 email access users)
+ 
+          Username – Employee Id@tcs.com  ( example - 1234567@tcs.com)
+          Password – Domain Password (India)
+  c)     Exchange mail (TCS) :  ( https://mail.tcs.com – only via VPN on TCS laptop only )
+           Username – India\1234567
+           Password – Domain Password (India)
+from In HR Drivepan24 to everyone:    11:32 AM
+https://uxapps.ultimatix.net/#/utility
+https://uxapps.ultimatix.net/#/    - to remove Uxapp
+from D Samuel Sajeev to everyone:    12:34 PM
+what about the schedule for tomorrow (24th Jan)?
